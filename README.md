@@ -3,7 +3,7 @@
 * version with Mocha + chaiJquery
   * /test
   * all the power of jQuery selectors
-  * Default on [Redux Simple Starter](https://github.com/StephenGrider/ReduxSimpleStarter)
+  * Default on Udemy's [Redux Simple Starter](https://github.com/StephenGrider/ReduxSimpleStarter)
 
 * version with Jest + Enzime
   * /src/\_\_tests\_\_
