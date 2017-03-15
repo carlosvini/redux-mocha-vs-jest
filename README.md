@@ -13,6 +13,7 @@
 * [Jest - DOM Testing](https://facebook.github.io/jest/docs/tutorial-react.html#dom-testing)
 * [Jest - Expect](https://facebook.github.io/jest/docs/expect.html)
 * [Enzime - ReactWrapper](http://airbnb.io/enzyme/docs/api/ReactWrapper/exists.html)
+* [Create React App - Running Tests](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#running-tests)
 
 ### Sample code
 
