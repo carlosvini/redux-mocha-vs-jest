@@ -2,10 +2,12 @@
 
 * version with Mocha + chaiJquery
   * /test
+  * all the power of jQuery selectors
   * Default on [Redux Simple Starter](https://github.com/StephenGrider/ReduxSimpleStarter)
 
 * version with Jest + Enzime
   * /src/\_\_tests\_\_
+  * created by Facebook (Jest) and Airbnb (Enzime)
   * Jest is default on [Create React App](https://github.com/facebookincubator/create-react-app)
   
 ### Useful links
